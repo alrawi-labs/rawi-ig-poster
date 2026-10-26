@@ -1,0 +1,8 @@
+{
+  "name": "rawi-ig-poster",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
