@@ -215,7 +215,11 @@ for (const d of due) {
     if (DRY_RUN) continue;
 
     let result;
-    if (format === "carousel") result = await postCarousel(urls, caption);
+    if (format === "carousel" && urls.length === 1) {
+      // Instagram carousel en az 2 görsel ister; tek görsel varsa normal feed postu olarak at
+      console.log("  ! carousel öğesinde tek görsel var, feed postu olarak paylaşılıyor");
+      result = await postFeed(urls, caption);
+    } else if (format === "carousel") result = await postCarousel(urls, caption);
     else if (format === "feed") result = await postFeed(urls, caption);
     else if (format === "story") result = await postStory(urls);
     else if (format === "reels") result = await postReel(urls, caption);
