@@ -104,7 +104,8 @@ function loadContent() {
 
 function findItem(files, id, state) {
   for (const f of files) {
-    const item = f.items.find((x) => x.id === id && x.state === state);
+    // "repeat": true olan öğe tükenmez: state ne olursa olsun her seferinde yeniden seçilir
+    const item = f.items.find((x) => x.id === id && (x.repeat === true || x.state === state));
     if (item) return { ...f, item };
   }
   return null;
@@ -226,10 +227,15 @@ for (const d of due) {
     else throw new Error(`Bilinmeyen format: ${format}`);
 
     // Başarılı: durumu ve logu hemen diske yaz
-    item.state = flow.done;
-    item[`${flow.done}_at`] = now.toISO();
-    item[`${flow.done}_media_id`] = result.id;
-    writeJson(hit.file, hit.items);
+    if (item.repeat === true) {
+      // Tekrar eden öğe: state değişmez, içerik dosyasına yazılmaz (gereksiz commit olmasın)
+      console.log("  (repeat öğe: state değiştirilmedi)");
+    } else {
+      item.state = flow.done;
+      item[`${flow.done}_at`] = now.toISO();
+      item[`${flow.done}_media_id`] = result.id;
+      writeJson(hit.file, hit.items);
+    }
     log[d.key] = { media_id: result.id, at: now.toISO() };
     console.log(`  ✓ paylaşıldı: ${result.id}`);
 

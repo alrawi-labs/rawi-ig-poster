@@ -3,44 +3,12 @@
     "id": "reading_comprehension_story",
     "format": "story",
     "state": "pending",
+    "repeat": true,
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1793039943/rawi_generator/reading_comprehension_story_1793039939319.jpg"
     ],
-    "row": 2,
-    "source": "reading_comprehension"
-  },
-  {
-    "id": "reading_comprehension_story",
-    "format": "story",
-    "state": "pending",
-    "caption": "",
-    "urls": [
-      "https://res.cloudinary.com/adp7rvya/image/upload/v1793039946/rawi_generator/reading_comprehension_story_1793039944740.jpg"
-    ],
-    "row": 3,
-    "source": "reading_comprehension"
-  },
-  {
-    "id": "reading_comprehension_story",
-    "format": "story",
-    "state": "pending",
-    "caption": "",
-    "urls": [
-      "https://res.cloudinary.com/adp7rvya/image/upload/v1793039950/rawi_generator/reading_comprehension_story_1793039948510.jpg"
-    ],
-    "row": 4,
-    "source": "reading_comprehension"
-  },
-  {
-    "id": "reading_comprehension_story",
-    "format": "story",
-    "state": "pending",
-    "caption": "",
-    "urls": [
-      "https://res.cloudinary.com/adp7rvya/image/upload/v1793039956/rawi_generator/reading_comprehension_story_1793039953179.jpg"
-    ],
-    "row": 5,
+    "row": 0,
     "source": "reading_comprehension"
   }
 ]
