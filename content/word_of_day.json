@@ -1,7 +1,7 @@
 [
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Özen\n المعنى: العناية أو الاهتمام بالتفاصيل\n المستوى: B1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692229/rawi_generator/word_of_day_cover_1792692224878_0.jpg",
@@ -14,7 +14,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692250/rawi_generator/word_of_day_question_1792692241860_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692253/rawi_generator/word_of_day_answer_1792692241860_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692256/rawi_generator/word_of_day_closed_1792692241860_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-29T14:00:55.613+03:00",
+    "posted_media_id": "17971090439965923"
   },
   {
     "id": "word_of_day",
