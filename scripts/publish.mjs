@@ -13,6 +13,9 @@ const TEST_NOW = process.env.TEST_NOW || ""; // örn. "2026-10-28T15:00" (İstan
 const LOOKBACK_MIN = Number(process.env.LOOKBACK_MIN || 120); // GitHub cron gecikmesine tolerans
 const CONTENT_DIR = "content";
 const LOG_FILE = "state/posted_log.json";
+// Reels kapağı: varsayılan olarak videodan alınacak kare (milisaniye). 0 = ilk kare (Instagram varsayılanı).
+// İçerik kaydında "coverUrl" (JPEG linki) ya da "thumbOffset" (ms) varsa onlar önceliklidir.
+const REEL_THUMB_OFFSET_MS = Number(process.env.REEL_THUMB_OFFSET_MS || 0);
 
 // Family -> JSON'daki "id"
 const ID_OF = {
@@ -177,13 +180,18 @@ async function postStory(urls) {
   return publishContainer(c.id);
 }
 
-async function postReel(urls, caption) {
-  const c = await graph("POST", `${IG_USER_ID}/media`, {
+async function postReel(urls, caption, item = {}) {
+  const params = {
     media_type: "REELS",
     video_url: urls[0],
     caption,
     share_to_feed: "true",
-  });
+  };
+  // Kapak önceliği: coverUrl (özel JPEG) > thumbOffset (kayıt) > REEL_THUMB_OFFSET_MS (genel) > ilk kare
+  if (item.coverUrl) params.cover_url = item.coverUrl;
+  else if (Number.isFinite(item.thumbOffset)) params.thumb_offset = String(item.thumbOffset);
+  else if (REEL_THUMB_OFFSET_MS > 0) params.thumb_offset = String(REEL_THUMB_OFFSET_MS);
+  const c = await graph("POST", `${IG_USER_ID}/media`, params);
   await waitFinished(c.id, { tries: 60, delayMs: 10000 }); // video işleme uzun sürebilir
   return publishContainer(c.id);
 }
@@ -223,7 +231,7 @@ for (const d of due) {
     } else if (format === "carousel") result = await postCarousel(urls, caption);
     else if (format === "feed") result = await postFeed(urls, caption);
     else if (format === "story") result = await postStory(urls);
-    else if (format === "reels") result = await postReel(urls, caption);
+    else if (format === "reels") result = await postReel(urls, caption, item);
     else throw new Error(`Bilinmeyen format: ${format}`);
 
     // Başarılı: durumu ve logu hemen diske yaz
