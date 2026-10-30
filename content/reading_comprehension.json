@@ -1,7 +1,7 @@
 [
   {
     "id": "reading_comprehension",
-    "state": "pending",
+    "state": "posted",
     "caption": "📝 اختبار قراءة كامل (A1 • مبتدئ)\n \n اقرأ النص التركي بتمعّن ثم أجب عن 5 أسئلة. خذ وقتك ولا تنظر إلى الإجابات قبل أن تنتهي ⏱️\n \n ✅ الإجابات الصحيحة في الشريحة الأخيرة قبل الختام\n ✍️ اكتب إجاباتك في التعليقات (مثال: 1-A, 2-C ...) وأخبرنا كم حصلت!\n \n 💾 احفظ المنشور للمراجعة وشاركه مع صديق يتعلم التركية\n \n #تعلم_التركية #اللغة_التركية #اختبار_تركي #Türkçe #OkumaAnlama #A1",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792761257/rawi_generator/reading_comprehension_cover_1792761248477_0.jpg",
@@ -13,7 +13,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792761278/rawi_generator/reading_comprehension_question_1792761271114_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792761281/rawi_generator/reading_comprehension_answer_list_1792761271114_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792761285/rawi_generator/reading_comprehension_cta_1792761271114_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-30T13:00:58.479+03:00",
+    "posted_media_id": "18650413201029057"
   },
   {
     "id": "reading_comprehension",
