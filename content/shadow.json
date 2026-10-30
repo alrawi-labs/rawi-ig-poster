@@ -1,20 +1,13 @@
 [
   {
     "id": "shadow",
-<<<<<<< HEAD
-    "caption": "Shadowing A1: Camiye Gidiyorum #Türkçe",
-    "state": "posted",
-=======
     "caption": "🕌 كيف تقول «أذهب إلى المسجد» بالتركية؟ ردّد معي جملة بجملة 🎧\nTürkçe öğren: Camiye Gidiyorum | Shadowing A1\n\nتعلّم اللغة التركية بقصة قصيرة بمستوى A1 (مبتدئ) لتدريب النطق والاستماع بتقنية الشادوينغ: استمع للجملة ثم ردّدها فورًا بنفس الإيقاع والنبرة.\n\nجمل من الفيديو:\n▪ Önce abdest alırım. = أولًا أتوضأ.\n▪ Namaz kılarım ve dua ederim. = أصلّي وأدعو.\n\n📌 احفظ الفيديو وكرّر التمرين كل يوم.\n💬 اكتب في التعليقات: كم جملة استطعت ترديدها بسلاسة؟ 👇\n📤 شاركه مع صديق يتعلم التركية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\nتابع @rawi.turkish لمزيد من تمارين الشادوينغ.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #Shadowing #المسجد_بالتركية",
     "state": "pending",
->>>>>>> e765c24 (update shadow files to improve caption field for seo friend)
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1792433800/shadow-a1-11.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793399168/shadow-a1-11.jpg",
-    "format": "reels",
-    "posted_at": "2026-09-29T19:10:00.000+03:00",
-    "posted_media_id": "18096779387554137"
+    "format": "reels"
   },
   {
     "id": "shadow",
