@@ -6,7 +6,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896311/aile-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363547/aile-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363547/aile-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -15,7 +16,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896369/aile-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363556/aile-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363556/aile-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -24,7 +26,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896452/aile-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363564/aile-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363564/aile-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -33,7 +36,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896526/aile-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363573/aile-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363573/aile-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -42,7 +46,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896584/aile-07.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363581/aile-07.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363581/aile-07.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -51,7 +56,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896633/aile-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363589/aile-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363589/aile-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -60,7 +66,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896696/aile-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363597/aile-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363597/aile-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -69,7 +76,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909202/aile-10.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363606/aile-10.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363606/aile-10.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -78,7 +86,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909340/aile-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363614/aile-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363614/aile-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -87,7 +96,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909632/aile-12.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363624/aile-12.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363624/aile-12.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -96,7 +106,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835936/anahtarci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363633/anahtarci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363633/anahtarci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -105,7 +116,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791827295/arac-kirala-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363642/arac-kirala-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363642/arac-kirala-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -114,7 +126,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791824790/arac-yikama-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363650/arac-yikama-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363650/arac-yikama-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -123,7 +136,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892104/arkadaslik-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363659/arkadaslik-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363659/arkadaslik-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -132,7 +146,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892186/arkadaslik-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363667/arkadaslik-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363667/arkadaslik-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -141,7 +156,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892481/arkadaslik-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363676/arkadaslik-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363676/arkadaslik-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -150,7 +166,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892544/arkadaslik-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363685/arkadaslik-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363685/arkadaslik-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -159,7 +176,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892616/arkadaslik-07.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363694/arkadaslik-07.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363694/arkadaslik-07.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -168,7 +186,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892682/arkadaslik-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363702/arkadaslik-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363702/arkadaslik-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -177,7 +196,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892729/arkadaslik-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363710/arkadaslik-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363710/arkadaslik-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -186,7 +206,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892847/arkadaslik-10.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363719/arkadaslik-10.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363719/arkadaslik-10.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -195,7 +216,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892921/arkadaslik-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363728/arkadaslik-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363728/arkadaslik-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -204,7 +226,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892979/arkadaslik-12.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363736/arkadaslik-12.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363736/arkadaslik-12.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -213,7 +236,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791826337/ayakkabi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363745/ayakkabi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363745/ayakkabi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -222,7 +246,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791843387/ayakkabi-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363753/ayakkabi-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363753/ayakkabi-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -231,7 +256,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835793/ayakkabi-tamir-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363761/ayakkabi-tamir-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363761/ayakkabi-tamir-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -240,7 +266,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791832351/baharatci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363769/baharatci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363769/baharatci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -249,7 +276,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791833812/baklava-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363777/baklava-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363777/baklava-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -258,7 +286,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825226/balikci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363785/balikci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363785/balikci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -267,7 +296,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840162/banka-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363794/banka-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363794/banka-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -276,7 +306,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825789/banka-kart-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363804/banka-kart-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363804/banka-kart-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -285,7 +316,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791827121/benzin-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363812/benzin-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363812/benzin-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -294,7 +326,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845401/benzinlik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363821/benzinlik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363821/benzinlik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -303,7 +336,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822652/berber-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363829/berber-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363829/berber-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -312,7 +346,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890938/berber-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363838/berber-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363838/berber-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -321,7 +356,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911594/bilgisayar-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363846/bilgisayar-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363846/bilgisayar-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -330,7 +366,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911667/bilgisayar-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363854/bilgisayar-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363854/bilgisayar-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -339,7 +376,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791912650/bilgisayar-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363862/bilgisayar-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363862/bilgisayar-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -348,7 +386,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791912761/bilgisayar-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363874/bilgisayar-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363874/bilgisayar-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -357,7 +396,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791912874/bilgisayar-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363884/bilgisayar-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363884/bilgisayar-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -366,7 +406,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913055/bilgisayar-07.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363893/bilgisayar-07.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363893/bilgisayar-07.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -375,7 +416,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913146/bilgisayar-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363901/bilgisayar-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363901/bilgisayar-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -384,7 +426,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913270/bilgisayar-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363911/bilgisayar-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363911/bilgisayar-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -393,7 +436,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913375/bilgisayar-10.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363920/bilgisayar-10.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363920/bilgisayar-10.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -402,7 +446,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913482/bilgisayar-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363930/bilgisayar-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363930/bilgisayar-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -411,7 +456,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791824131/bisiklet-kirala-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363938/bisiklet-kirala-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363938/bisiklet-kirala-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -420,7 +466,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839486/boya-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363948/boya-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363948/boya-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -429,7 +476,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791837583/camasirhane-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363959/camasirhane-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363959/camasirhane-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -438,7 +486,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891372/cami-13.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363971/cami-13.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363971/cami-13.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -447,7 +496,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891436/cami-14.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363981/cami-14.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363981/cami-14.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -456,7 +506,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891515/cami-15.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363990/cami-15.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363990/cami-15.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -465,7 +516,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891594/cami-16.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363999/cami-16.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363999/cami-16.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -474,7 +526,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891654/cami-17.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364007/cami-17.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364007/cami-17.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -483,7 +536,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891718/cami-18.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364015/cami-18.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364015/cami-18.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -492,7 +546,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891788/cami-19.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364023/cami-19.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364023/cami-19.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -501,7 +556,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891867/cami-20.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364031/cami-20.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364031/cami-20.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -510,7 +566,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891963/cami-21.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364042/cami-21.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364042/cami-21.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -519,7 +576,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791892048/cami-22.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364051/cami-22.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364051/cami-22.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -528,7 +586,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791828854/cay-bahcesi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364062/cay-bahcesi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364062/cay-bahcesi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -537,7 +596,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823962/cicekci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364072/cicekci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364072/cicekci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -546,7 +606,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791844894/cicekci-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364081/cicekci-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364081/cicekci-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -555,7 +616,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791838173/dil-kursu-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364090/dil-kursu-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364090/dil-kursu-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -564,7 +626,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845147/dil-kursu-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364108/dil-kursu-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364108/dil-kursu-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -573,7 +636,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791834125/dolmus-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364126/dolmus-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364126/dolmus-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -582,7 +646,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791829175/doner-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364136/doner-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364136/doner-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -591,7 +656,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791846305/doviz-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364146/doviz-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364146/doviz-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -600,7 +666,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822104/eczane-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364155/eczane-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364155/eczane-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -609,7 +676,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891115/elektronik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364163/elektronik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364163/elektronik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -618,7 +686,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791834411/emanet-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364172/emanet-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364172/emanet-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -627,7 +696,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791844334/emlak-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364180/emlak-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364180/emlak-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -636,7 +706,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885117/emlak-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364189/emlak-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364189/emlak-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -645,7 +716,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909731/ev-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364198/ev-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364198/ev-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -654,7 +726,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909866/ev-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364207/ev-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364207/ev-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -663,7 +736,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909973/ev-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364217/ev-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364217/ev-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -672,7 +746,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910089/ev-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364227/ev-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364227/ev-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -681,7 +756,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910195/ev-07.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364234/ev-07.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364234/ev-07.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -690,7 +766,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910284/ev-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364245/ev-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364245/ev-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -699,7 +776,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910376/ev-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364254/ev-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364254/ev-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -708,7 +786,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910460/ev-10.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364262/ev-10.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364262/ev-10.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -717,7 +796,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910536/ev-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364270/ev-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364270/ev-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -726,7 +806,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910631/ev-12.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364279/ev-12.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364279/ev-12.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -735,7 +816,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791838318/evcil-hayvan-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364287/evcil-hayvan-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364287/evcil-hayvan-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -744,7 +826,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840679/firin-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364298/firin-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364298/firin-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -753,7 +836,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890864/firin-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364306/firin-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364306/firin-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -762,7 +846,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822735/firin-ekmek-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364315/firin-ekmek-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364315/firin-ekmek-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -771,7 +856,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791830614/fotograf-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364324/fotograf-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364324/fotograf-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -780,7 +866,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791837961/fotokopi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364331/fotokopi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364331/fotokopi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -789,7 +876,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839223/gazete-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364339/gazete-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364339/gazete-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -798,7 +886,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791842832/giyim-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364348/giyim-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364348/giyim-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -807,7 +896,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891029/giyim-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364358/giyim-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364358/giyim-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -816,7 +906,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823723/giyim-magaza-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364368/giyim-magaza-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364368/giyim-magaza-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -825,7 +916,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839042/gumus-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364377/gumus-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364377/gumus-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -834,7 +926,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791831297/hali-yikama-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364387/hali-yikama-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364387/hali-yikama-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -843,7 +936,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835452/hamam-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364398/hamam-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364398/hamam-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -852,7 +946,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822241/hastane-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364407/hastane-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364407/hastane-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -861,7 +956,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791843921/havalimani-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364415/havalimani-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364415/havalimani-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -870,7 +966,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791846413/havalimani-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364424/havalimani-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364424/havalimani-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -879,7 +976,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791824998/havalimani-checkin-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364433/havalimani-checkin-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364433/havalimani-checkin-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -888,7 +986,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791838452/hayvanat-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364440/hayvanat-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364440/hayvanat-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -897,7 +996,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835203/hediyelik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364449/hediyelik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364449/hediyelik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -906,7 +1006,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839733/kafe-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364459/kafe-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364459/kafe-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -915,7 +1016,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890719/kafe-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364467/kafe-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364467/kafe-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -924,7 +1026,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845762/kafe-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364475/kafe-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364475/kafe-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -933,7 +1036,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822539/kafe-siparis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364484/kafe-siparis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364484/kafe-siparis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -942,7 +1046,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835327/kapalicarsi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364492/kapalicarsi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364492/kapalicarsi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -951,7 +1056,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823280/kargo-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364501/kargo-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364501/kargo-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -960,7 +1066,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885006/kargo-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364509/kargo-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364509/kargo-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -969,7 +1076,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823838/kasap-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364519/kasap-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364519/kasap-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -978,7 +1086,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840795/kasap-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364529/kasap-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364529/kasap-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -987,7 +1096,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791827596/kiralik-ev-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364538/kiralik-ev-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364538/kiralik-ev-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -996,7 +1106,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823074/kirtasiye-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364546/kirtasiye-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364546/kirtasiye-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1005,7 +1116,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791844747/kirtasiye-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364554/kirtasiye-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364554/kirtasiye-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1014,7 +1126,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791829945/kitapci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364564/kitapci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364564/kitapci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1023,7 +1136,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791842400/kitapci-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364574/kitapci-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364574/kitapci-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1032,7 +1146,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885286/kitapci-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364582/kitapci-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364582/kitapci-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1041,7 +1156,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791884904/kiyafet-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364591/kiyafet-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364591/kiyafet-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1050,7 +1166,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825529/kuafor-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364599/kuafor-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364599/kuafor-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1059,7 +1176,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840413/kuafor-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364607/kuafor-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364607/kuafor-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1068,7 +1186,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791827997/kulaklik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364616/kulaklik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364616/kulaklik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1077,7 +1196,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825660/kuru-temizleme-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364624/kuru-temizleme-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364624/kuru-temizleme-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1086,7 +1206,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791842224/kuru-temizleme-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364633/kuru-temizleme-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364633/kuru-temizleme-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1095,7 +1216,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791833579/kuruyemis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364643/kuruyemis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364643/kuruyemis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1104,7 +1226,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791830752/kutuphane-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364652/kutuphane-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364652/kutuphane-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1113,7 +1236,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791830277/lastik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364660/lastik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364660/lastik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1122,7 +1246,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825374/manav-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364670/manav-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364670/manav-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1131,7 +1256,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840274/market-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364679/market-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364679/market-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1140,7 +1266,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890782/market-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364692/market-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364692/market-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1149,7 +1276,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791846196/market-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364706/market-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364706/market-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1158,7 +1286,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823168/market-kasa-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364723/market-kasa-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364723/market-kasa-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1167,7 +1296,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791844079/metro-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364739/metro-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364739/metro-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1176,7 +1306,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791826923/metro-kart-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364749/metro-kart-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364749/metro-kart-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1185,7 +1316,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845520/misafirlik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364759/misafirlik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364759/misafirlik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1194,7 +1326,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791827781/mobilya-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364766/mobilya-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364766/mobilya-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1203,7 +1336,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791893042/muasere-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364775/muasere-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364775/muasere-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1212,7 +1346,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791893096/muasere-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364783/muasere-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364783/muasere-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1221,7 +1356,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791893152/muasere-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364791/muasere-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364791/muasere-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1230,7 +1366,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791893212/muasere-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364799/muasere-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364799/muasere-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1239,7 +1376,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791895034/muasere-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364808/muasere-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364808/muasere-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1248,7 +1386,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791895314/muasere-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364816/muasere-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364816/muasere-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1257,7 +1396,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791895806/muasere-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364824/muasere-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364824/muasere-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1266,7 +1406,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896243/muasere-12.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364833/muasere-12.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364833/muasere-12.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1275,7 +1416,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845662/muze-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364841/muze-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364841/muze-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1284,7 +1426,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885553/muze-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364851/muze-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364851/muze-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1293,7 +1436,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791824257/muze-bilet-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364859/muze-bilet-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364859/muze-bilet-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1302,7 +1446,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839360/nakliyat-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364867/nakliyat-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364867/nakliyat-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1311,7 +1456,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791830474/nalbur-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364876/nalbur-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364876/nalbur-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1320,7 +1466,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885756/ofis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364885/ofis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364885/ofis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1329,7 +1476,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845265/operator-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364893/operator-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364893/operator-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1338,7 +1486,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891213/operator-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364901/operator-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364901/operator-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1347,7 +1496,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791826093/optik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364912/optik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364912/optik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1356,7 +1506,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840007/otel-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364921/otel-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364921/otel-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1365,7 +1516,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791846084/otel-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364930/otel-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364930/otel-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1374,7 +1526,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835606/otel-cikis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364939/otel-cikis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364939/otel-cikis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1383,7 +1536,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822846/otel-giris-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364948/otel-giris-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364948/otel-giris-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1392,7 +1546,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839608/oto-servis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364958/oto-servis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364958/oto-servis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1401,7 +1556,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791843544/otogar-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364967/otogar-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364967/otogar-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1410,7 +1566,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791826544/otogar-sehirlerarasi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364975/otogar-sehirlerarasi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364975/otogar-sehirlerarasi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1419,7 +1576,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791831445/otopark-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364984/otopark-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364984/otopark-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1428,7 +1586,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791830113/oyuncakci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364992/oyuncakci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364992/oyuncakci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1437,7 +1596,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791838918/parfumeri-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364999/parfumeri-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364999/parfumeri-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1446,7 +1606,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791829340/pasta-siparis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365008/pasta-siparis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365008/pasta-siparis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1455,7 +1616,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845020/pastane-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365018/pastane-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365018/pastane-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1464,7 +1626,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913583/pazar-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365027/pazar-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365027/pazar-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1473,7 +1636,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913669/pazar-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365039/pazar-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365039/pazar-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1482,7 +1646,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913770/pazar-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365053/pazar-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365053/pazar-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1491,7 +1656,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913869/pazar-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365065/pazar-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365065/pazar-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1500,7 +1666,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791913945/pazar-07.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365075/pazar-07.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365075/pazar-07.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1509,7 +1676,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791914053/pazar-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365087/pazar-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365087/pazar-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1518,7 +1686,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791914152/pazar-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365095/pazar-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365095/pazar-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1527,7 +1696,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791914258/pazar-10.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365103/pazar-10.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365103/pazar-10.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1536,7 +1706,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791914360/pazar-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365113/pazar-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365113/pazar-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1545,7 +1716,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791914442/pazar-12.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365121/pazar-12.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365121/pazar-12.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1554,7 +1726,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825922/postane-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365129/postane-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365129/postane-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1563,7 +1736,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840941/postane-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365137/postane-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365137/postane-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1572,7 +1746,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840554/restoran-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365146/restoran-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365146/restoran-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1581,7 +1756,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845872/restoran-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365154/restoran-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365154/restoran-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1590,7 +1766,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890574/restoran-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365162/restoran-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365162/restoran-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1599,7 +1776,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890645/restoran-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365170/restoran-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365170/restoran-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1608,7 +1786,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822966/restoran-hesap-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365177/restoran-hesap-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365177/restoran-hesap-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1617,7 +1796,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791837445/saatci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365186/saatci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365186/saatci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1626,7 +1806,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791833690/sarkuteri-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365195/sarkuteri-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365195/sarkuteri-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1635,7 +1816,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791828362/sinema-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365204/sinema-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365204/sinema-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1644,7 +1826,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791844481/sinema-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365212/sinema-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365212/sinema-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1653,7 +1836,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885469/sinema-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365220/sinema-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365220/sinema-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1662,7 +1846,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791889126/sokak-adres-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365229/sokak-adres-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365229/sokak-adres-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1671,7 +1856,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888577/sokak-atm-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365236/sokak-atm-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365236/sokak-atm-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1680,7 +1866,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888814/sokak-ayakkabi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365244/sokak-ayakkabi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365244/sokak-ayakkabi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1689,7 +1876,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888493/sokak-buffe-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365252/sokak-buffe-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365252/sokak-buffe-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1698,7 +1886,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791889196/sokak-bulusma-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365260/sokak-bulusma-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365260/sokak-bulusma-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1707,7 +1896,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888336/sokak-cami-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365269/sokak-cami-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365269/sokak-cami-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1716,7 +1906,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888414/sokak-cicekci-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365277/sokak-cicekci-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365277/sokak-cicekci-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1725,7 +1916,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791889289/sokak-davet-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365286/sokak-davet-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365286/sokak-davet-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1734,7 +1926,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791825116/sokak-dondurma-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365294/sokak-dondurma-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365294/sokak-dondurma-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1743,7 +1936,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888960/sokak-dondurma-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365303/sokak-dondurma-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365303/sokak-dondurma-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1752,7 +1946,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887725/sokak-fotograf-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365311/sokak-fotograf-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365311/sokak-fotograf-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1761,7 +1956,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887925/sokak-hediyelik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365319/sokak-hediyelik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365319/sokak-hediyelik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1770,7 +1966,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888739/sokak-kedi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365328/sokak-kedi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365328/sokak-kedi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1779,7 +1976,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890507/sokak-kiralik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365337/sokak-kiralik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365337/sokak-kiralik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1788,7 +1986,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791821933/sokak-komsu-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365345/sokak-komsu-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365345/sokak-komsu-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1797,7 +1996,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888880/sokak-lastik-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365354/sokak-lastik-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365354/sokak-lastik-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1806,7 +2006,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887040/sokak-metro-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365363/sokak-metro-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365363/sokak-metro-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1815,7 +2016,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791821626/sokak-otobus-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365375/sokak-otobus-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365375/sokak-otobus-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1824,7 +2026,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887624/sokak-otopark-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365384/sokak-otopark-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365384/sokak-otopark-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1833,7 +2036,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791889043/sokak-park-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365393/sokak-park-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365393/sokak-park-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1842,7 +2046,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791821750/sokak-pazar-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365401/sokak-pazar-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365401/sokak-pazar-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1851,7 +2056,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888257/sokak-polis-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365410/sokak-polis-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365410/sokak-polis-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1860,7 +2066,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888007/sokak-restoran-oneri-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365418/sokak-restoran-oneri-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365418/sokak-restoran-oneri-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1869,7 +2076,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888095/sokak-saat-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365425/sokak-saat-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365425/sokak-saat-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1878,7 +2086,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887805/sokak-scooter-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365433/sokak-scooter-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365433/sokak-scooter-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1887,7 +2096,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791821516/sokak-simit-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365441/sokak-simit-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365441/sokak-simit-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1896,7 +2106,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791822416/sokak-taksi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365449/sokak-taksi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365449/sokak-taksi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1905,7 +2116,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887471/sokak-taksi-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365458/sokak-taksi-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365458/sokak-taksi-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1914,7 +2126,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791889367/sokak-tanisma-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365466/sokak-tanisma-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365466/sokak-tanisma-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1923,7 +2136,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791821402/sokak-telefon-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365475/sokak-telefon-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365475/sokak-telefon-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1932,7 +2146,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887141/sokak-tramvay-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365484/sokak-tramvay-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365484/sokak-tramvay-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1941,7 +2156,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888658/sokak-vapur-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365492/sokak-vapur-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365492/sokak-vapur-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1950,7 +2166,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791887548/sokak-yagmur-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365502/sokak-yagmur-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365502/sokak-yagmur-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1959,7 +2176,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890407/sokak-yardim-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365511/sokak-yardim-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365511/sokak-yardim-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1968,7 +2186,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791888174/sokak-yaya-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365520/sokak-yaya-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365520/sokak-yaya-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1977,7 +2196,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890325/sokak-yer-verme-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365530/sokak-yer-verme-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365530/sokak-yer-verme-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1986,7 +2206,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791821267/sokak-yol-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365539/sokak-yol-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365539/sokak-yol-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -1995,7 +2216,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791889439/sokak-yol-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365547/sokak-yol-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365547/sokak-yol-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2004,7 +2226,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885949/spor-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365556/spor-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365556/spor-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2013,7 +2236,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791828173/spor-salonu-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365564/spor-salonu-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365564/spor-salonu-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2022,7 +2246,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791844606/spor-salonu-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365573/spor-salonu-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365573/spor-salonu-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2031,7 +2256,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791837822/su-bayii-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365581/su-bayii-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365581/su-bayii-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2040,7 +2266,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791839867/taksi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365589/taksi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365589/taksi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2049,7 +2276,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845980/taksi-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365596/taksi-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365596/taksi-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2058,7 +2286,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885857/tatlici-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365605/tatlici-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365605/tatlici-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2067,7 +2296,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823621/telefon-hat-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365613/telefon-hat-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365613/telefon-hat-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2076,7 +2306,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791824889/telefon-tamir-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365621/telefon-tamir-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365621/telefon-tamir-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2085,7 +2316,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791841079/telefon-tamir-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365630/telefon-tamir-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365630/telefon-tamir-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2094,7 +2326,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885209/telefon-tamir-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365638/telefon-tamir-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365638/telefon-tamir-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2103,7 +2336,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885364/temizleme-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365647/temizleme-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365647/temizleme-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2112,7 +2346,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823499/terzi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365655/terzi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365655/terzi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2121,7 +2356,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791841257/terzi-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365663/terzi-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365663/terzi-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2130,7 +2366,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791834244/tramvay-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365671/tramvay-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365671/tramvay-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2139,7 +2376,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791884804/tren-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365679/tren-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365679/tren-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2148,7 +2386,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823411/tren-bilet-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365687/tren-bilet-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365687/tren-bilet-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2157,7 +2396,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791835086/turist-ofisi-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365697/turist-ofisi-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365697/turist-ofisi-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2166,7 +2406,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791885626/universite-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365707/universite-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365707/universite-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2175,7 +2416,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910728/universite-02.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365717/universite-02.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365717/universite-02.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2184,7 +2426,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910804/universite-03.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365726/universite-03.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365726/universite-03.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2193,7 +2436,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910888/universite-04.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365736/universite-04.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365736/universite-04.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2202,7 +2446,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791910983/universite-05.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365744/universite-05.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365744/universite-05.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2211,7 +2456,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911085/universite-06.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365753/universite-06.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365753/universite-06.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2220,7 +2466,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911173/universite-07.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365761/universite-07.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365761/universite-07.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2229,7 +2476,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911288/universite-08.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365770/universite-08.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365770/universite-08.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2238,7 +2486,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911369/universite-09.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365779/universite-09.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365779/universite-09.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2247,7 +2496,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911431/universite-10.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365786/universite-10.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365786/universite-10.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2256,7 +2506,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791911510/universite-11.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365794/universite-11.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365794/universite-11.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2265,7 +2516,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891302/universite-12.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365802/universite-12.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365802/universite-12.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2274,7 +2526,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791826720/vapur-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365811/vapur-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365811/vapur-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2283,7 +2536,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886737/whatsapp-alisveris-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365820/whatsapp-alisveris-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365820/whatsapp-alisveris-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2292,7 +2546,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886029/whatsapp-bulusma-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365828/whatsapp-bulusma-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365828/whatsapp-bulusma-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2301,7 +2556,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886421/whatsapp-ders-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365838/whatsapp-ders-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365838/whatsapp-ders-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2310,7 +2566,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886102/whatsapp-gecikme-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365845/whatsapp-gecikme-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365845/whatsapp-gecikme-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2319,7 +2576,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886949/whatsapp-kitap-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365853/whatsapp-kitap-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365853/whatsapp-kitap-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2328,7 +2586,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886525/whatsapp-konum-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365861/whatsapp-konum-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365861/whatsapp-konum-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2337,7 +2596,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886857/whatsapp-mac-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365870/whatsapp-mac-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365870/whatsapp-mac-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2346,7 +2606,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886637/whatsapp-tatil-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365881/whatsapp-tatil-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365881/whatsapp-tatil-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2355,7 +2616,8 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886322/whatsapp-yemek-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365890/whatsapp-yemek-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365890/whatsapp-yemek-01.png",
+    "format": "reels"
   },
   {
     "id": "conversation",
@@ -2364,6 +2626,7 @@
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886226/whatsapp-yeniev-01.mp4"
     ],
-    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365898/whatsapp-yeniev-01.png"
+    "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365898/whatsapp-yeniev-01.png",
+    "format": "reels"
   }
 ]
