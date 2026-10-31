@@ -2,12 +2,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تُعدّ قائمة المشتريات وتحسب ثمنها مع أمك 🛒\nTürkçe öğren: Anneyle market listesi hazırlama\n\nمحادثة تركية يومية مترجمة، تتعلم منها حساب ثمن المشتريات والباقي:\n▪ Bunlar üç yüz yirmi lira eder = هذه تساوي ثلاثمئة وعشرين ليرة\n▪ Altı yüz lira verirsem yirmi lira kalır = إن أعطيتك ستمئة ليرة فيتبقى عشرون ليرة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #العائلة_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896311/aile-03.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363547/aile-03.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-10-31T19:00:52.189+03:00",
+    "posted_media_id": "17980460145158897"
   },
   {
     "id": "conversation",
