@@ -1,7 +1,7 @@
 [
   {
     "id": "beautiful_sentence",
-    "state": "pending",
+    "state": "posted",
     "caption": "جمل تركية للحياة اليومية 🇹🇷\n المستوى: A1\n الموضوع: selamlaşma\n \n 1. Merhaba, nasılsın?\n مرحباً، كيف حالك؟\n \n 2. İyiyim, sen nasılsın?\n أنا بخير، وأنت كيف حالك؟\n \n 3. Hoş geldin!\n أهلاً بك!\n \n 4. Hoş bulduk!\n أهلاً بك أيضاً! (رداً على الترحيب)\n \n 5. Yarın görüşürüz!\n نلتقي غداً!\n \n #تعلم_التركية #اللغة_التركية #Türkçe #günlükcümleler",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701774/rawi_generator/beautiful_sentence_cover_1792701769525_0.jpg",
@@ -11,7 +11,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701788/rawi_generator/beautiful_sentence_word_meanings_1792701769525_4.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701790/rawi_generator/beautiful_sentence_word_meanings_1792701787751_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701793/rawi_generator/beautiful_sentence_save_cta_1792701787751_1.jpg"
-    ]
+    ],
+    "posted_at": "2026-10-31T09:00:50.658+03:00",
+    "posted_media_id": "17909136573665100"
   },
   {
     "id": "beautiful_sentence",
