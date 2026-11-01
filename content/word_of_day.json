@@ -20,7 +20,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Rağmen\n المعنى: رغم / على الرغم من\n المستوى: B1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692259/rawi_generator/word_of_day_cover_1792692256556_0.jpg",
@@ -32,7 +32,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692275/rawi_generator/word_of_day_question_1792692270341_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692279/rawi_generator/word_of_day_answer_1792692270341_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692282/rawi_generator/word_of_day_closed_1792692270341_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-01T08:00:47.854+03:00",
+    "posted_media_id": "17960961393011756"
   },
   {
     "id": "word_of_day",
