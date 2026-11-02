@@ -38,7 +38,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Genellikle\n المعنى: عادةً / في الغالب\n المستوى: A2\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692285/rawi_generator/word_of_day_cover_1792692281994_0.jpg",
@@ -51,7 +51,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692305/rawi_generator/word_of_day_question_1792692297099_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692308/rawi_generator/word_of_day_answer_1792692297099_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692310/rawi_generator/word_of_day_closed_1792692297099_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-02T09:00:54.504+03:00",
+    "posted_media_id": "18116999849464386"
   },
   {
     "id": "word_of_day",
