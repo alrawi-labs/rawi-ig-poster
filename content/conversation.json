@@ -14,12 +14,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تحجز موعد صيانة السيارة مع والدك 🚗\nTürkçe öğren: Babayla araba servisi randevusu\n\nمحادثة تركية يومية مترجمة، تتعلم منها الاتفاق على موعد الصيانة والسؤال عن التكلفة:\n▪ Baba, araba için servis randevusu aldım = يا أبي، حجزت موعد صيانة للسيارة\n▪ Yağ değişimi ve filtre, dokuz yüz lira = تغيير الزيت والفلتر بتسعمئة ليرة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #العائلة_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896369/aile-04.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363556/aile-04.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-02T19:00:55.188+03:00",
+    "posted_media_id": "18208405084370716"
   },
   {
     "id": "conversation",
