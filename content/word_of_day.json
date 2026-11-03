@@ -57,7 +57,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Beklemek\n المعنى: ينتظر\n المستوى: A1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692313/rawi_generator/word_of_day_cover_1792692310663_0.jpg",
@@ -70,7 +70,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692334/rawi_generator/word_of_day_question_1792692324585_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692336/rawi_generator/word_of_day_answer_1792692324585_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692339/rawi_generator/word_of_day_closed_1792692324585_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-03T13:00:52.464+03:00",
+    "posted_media_id": "17997615822029389"
   },
   {
     "id": "word_of_day",
