@@ -26,12 +26,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تحسب مستلزمات المدرسة مع أمك 🎒\nTürkçe öğren: Okul alışverişi hesabı\n\nمحادثة تركية يومية مترجمة، تتعلم منها حساب ثمن الدفاتر والحقيبة والزي المدرسي:\n▪ Defter yirmi beş lira = الدفتر بخمس وعشرين ليرة\n▪ Çanta üç yüz elli lira = الحقيبة بثلاثمئة وخمسين ليرة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #المدرسة_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896452/aile-05.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363564/aile-05.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-04T21:00:54.472+03:00",
+    "posted_media_id": "18039241973855566"
   },
   {
     "id": "conversation",
