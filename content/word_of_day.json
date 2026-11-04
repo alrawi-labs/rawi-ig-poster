@@ -76,7 +76,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Sevinmek\n المعنى: يفرح\n المستوى: A2\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692342/rawi_generator/word_of_day_cover_1792692339767_0.jpg",
@@ -89,7 +89,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692363/rawi_generator/word_of_day_question_1792692353523_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692366/rawi_generator/word_of_day_answer_1792692353523_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692369/rawi_generator/word_of_day_closed_1792692353523_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-04T15:00:53.394+03:00",
+    "posted_media_id": "18116860345832878"
   },
   {
     "id": "word_of_day",
