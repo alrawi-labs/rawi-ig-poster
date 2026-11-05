@@ -46,11 +46,13 @@
   {
     "id": "stories_exam_of_day",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792923553/rawi_generator/stories_exam_of_day_1792923552640.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-05T22:00:53.652+03:00",
+    "posted_media_id": "17873897121648607"
   },
   {
     "id": "stories_exam_of_day",
