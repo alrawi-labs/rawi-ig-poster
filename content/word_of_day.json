@@ -95,7 +95,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Acaba\n المعنى: تُرى؟ / هل يا تُرى\n المستوى: A2\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692372/rawi_generator/word_of_day_cover_1792692369711_0.jpg",
@@ -107,7 +107,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692389/rawi_generator/word_of_day_question_1792692384021_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692392/rawi_generator/word_of_day_answer_1792692384021_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692394/rawi_generator/word_of_day_closed_1792692384021_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-05T11:00:53.789+03:00",
+    "posted_media_id": "18146836999574965"
   },
   {
     "id": "word_of_day",
