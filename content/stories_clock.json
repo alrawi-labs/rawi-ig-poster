@@ -1845,11 +1845,13 @@
   {
     "id": "stories_test_your_turkish",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792926708/rawi_generator/stories_test_your_turkish_1792926706655.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-06T18:00:58.568+03:00",
+    "posted_media_id": "18129921109868097"
   },
   {
     "id": "stories_test_your_turkish",
