@@ -1,7 +1,7 @@
 [
   {
     "id": "gramar_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "📚 قاعدة اليوم (A1): KİŞİ ZAMİRLERİ\n ضمائر الشخص\n \n 💡 ben أنا — sen أنت — o هو / هي — biz نحن — siz أنتم أو حضرتك — onlar هم\n \n ✍️ مثال:\n Ben Ali, o Ayşe.\n أنا علي وهي عائشة.\n \n 🎯 تُستعمل: للإشارة إلى المتكلم أو المخاطب أو الغائب\n \n 💾 احفظ المنشور للمراجعة وشاركه مع صديق يتعلم التركية\n \n #تعلم_التركية #اللغة_التركية #قواعد_تركية #Türkçe #TurkishGrammar #A1",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792757468/rawi_generator/gramer_of_day_cover_1792757453128_0.jpg",
@@ -12,7 +12,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792757495/rawi_generator/gramer_of_day_quiz_1792757490719_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792757498/rawi_generator/gramer_of_day_answer_1792757490719_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792757501/rawi_generator/gramer_of_day_summary_1792757490719_2.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-06T13:00:53.080+03:00",
+    "posted_media_id": "18126358696919538"
   },
   {
     "id": "gramar_of_day",
