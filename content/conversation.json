@@ -38,12 +38,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تدعو جدك للخروج إلى الحديقة ♟️\nTürkçe öğren: Dedeyle parka gitme\n\nمحادثة تركية يومية مترجمة، تتعلم منها الاتفاق على الخروج واللعب والرهان على السميت:\n▪ Dede, bugün parka gidelim mi? = يا جدي، هل نذهب اليوم إلى الحديقة؟\n▪ Kim kazanırsa simit alır = من يفز يشتري سميتاً\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #العائلة_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896526/aile-06.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363573/aile-06.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-06T16:30:44.328+03:00",
+    "posted_media_id": "17909260248667137"
   },
   {
     "id": "conversation",
