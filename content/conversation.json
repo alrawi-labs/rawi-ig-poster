@@ -50,12 +50,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تحسب ميزانية الشهر مع زوجك أو زوجتك 💰\nTürkçe öğren: Eşle aylık bütçe planı\n\nمحادثة تركية يومية مترجمة، تتعلم منها جمع الدخل والمصاريف وحساب المدخرات:\n▪ Maaşım otuz bin = راتبي ثلاثون ألفاً\n▪ Beş bin lirayı tasarrufa ayıralım = لنخصص خمسة آلاف ليرة للادخار\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #المال_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896584/aile-07.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363581/aile-07.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-07T14:30:41.000+03:00",
+    "posted_media_id": "18117215198104461"
   },
   {
     "id": "conversation",
