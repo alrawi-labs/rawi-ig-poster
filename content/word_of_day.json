@@ -113,7 +113,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Ayrıntı\n المعنى: تفصيل\n المستوى: B1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692397/rawi_generator/word_of_day_cover_1792692394770_0.jpg",
@@ -126,7 +126,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692417/rawi_generator/word_of_day_question_1792692408573_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692420/rawi_generator/word_of_day_answer_1792692408573_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692422/rawi_generator/word_of_day_closed_1792692408573_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-08T14:00:54.426+03:00",
+    "posted_media_id": "18094024787218642"
   },
   {
     "id": "word_of_day",
