@@ -62,12 +62,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تخطط لعطلة الصيف العائلية وتحسب الميزانية 🏖️\nTürkçe öğren: Aile tatil planı\n\nمحادثة تركية يومية مترجمة، تتعلم منها حساب تكلفة الفندق والبنزين والحجز:\n▪ Yaz tatili için Antalya'ya gitmeyi düşünüyoruz = نفكر في الذهاب إلى أنطاليا في عطلة الصيف\n▪ Ücretsiz iptal seçeneğini seçerim = سأختار خيار الإلغاء المجاني\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #السفر_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896633/aile-08.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363589/aile-08.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-09T13:30:44.922+03:00",
+    "posted_media_id": "18110651924575591"
   },
   {
     "id": "conversation",
