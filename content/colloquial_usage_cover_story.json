@@ -2,13 +2,15 @@
   {
     "id": "colloquial_usage_cover_story",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1793038757/rawi_generator/colloquial_usage_cover_story_1793038752286.jpg"
     ],
     "row": 2,
-    "source": "colloquial_usage"
+    "source": "colloquial_usage",
+    "posted_at": "2026-11-09T20:30:49.984+03:00",
+    "posted_media_id": "18138823156654915"
   },
   {
     "id": "colloquial_usage_cover_story",
