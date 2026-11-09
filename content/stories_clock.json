@@ -79,11 +79,13 @@
   {
     "id": "stories_clock",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792925939/rawi_generator/stories_clock_1792925937607.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-09T09:00:53.204+03:00",
+    "posted_media_id": "18126915470293047"
   },
   {
     "id": "stories_clock",
