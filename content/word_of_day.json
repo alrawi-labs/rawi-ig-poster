@@ -132,7 +132,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Yorgun\n المعنى: متعب\n المستوى: A1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692425/rawi_generator/word_of_day_cover_1792692423213_0.jpg",
@@ -145,7 +145,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692445/rawi_generator/word_of_day_question_1792692436715_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692447/rawi_generator/word_of_day_answer_1792692436715_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692450/rawi_generator/word_of_day_closed_1792692436715_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-09T12:00:53.204+03:00",
+    "posted_media_id": "18111612605190049"
   },
   {
     "id": "word_of_day",
