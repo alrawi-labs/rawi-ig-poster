@@ -1,7 +1,7 @@
 [
   {
     "id": "colloquial_usage",
-    "state": "pending",
+    "state": "posted",
     "caption": "تعبير عامي اليوم\nاكون حريمة اذا اروح اليوم للدوام\nبالتركية: Bugün işe gidersem adam değilim\n\n#تعلم_التركية #اللغة_التركية #Türkçe",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792700226/rawi_generator/colloquial_usage_cover_1792700218935_0.jpg",
@@ -10,7 +10,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792700237/rawi_generator/colloquial_usage_word_meanings_1792700218935_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792700240/rawi_generator/colloquial_usage_conversation_1792700218935_4.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792700242/rawi_generator/colloquial_usage_save_cta_1792700240161_0.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-09T20:01:00.545+03:00",
+    "posted_media_id": "18116837345521482"
   },
   {
     "id": "colloquial_usage",
