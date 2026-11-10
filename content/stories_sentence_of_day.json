@@ -90,11 +90,13 @@
   {
     "id": "stories_sentence_of_day",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792880294/rawi_generator/stories_sentence_of_day_1792880293432.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-10T13:00:57.535+03:00",
+    "posted_media_id": "17956234782301877"
   },
   {
     "id": "stories_sentence_of_day",
