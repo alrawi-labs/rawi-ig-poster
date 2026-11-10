@@ -74,12 +74,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تتقاسم تكلفة حفل زفاف مع أختك 💍\nTürkçe öğren: Ablayla düğün masrafı hesabı\n\nمحادثة تركية يومية مترجمة، تتعلم منها حساب عدد المدعوين وتكلفة الحفل وتقاسمها:\n▪ Yemek kişi başı iki yüz lira = الطعام بمئتي ليرة للشخص\n▪ Biz iki kardeş yarı yarıya verelim = لنتقاسم نحن الأختان المبلغ مناصفة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الزفاف_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791896696/aile-09.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363597/aile-09.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-10T10:30:43.711+03:00",
+    "posted_media_id": "18120948803057678"
   },
   {
     "id": "conversation",
