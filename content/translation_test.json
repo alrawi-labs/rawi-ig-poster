@@ -17,7 +17,7 @@
   },
   {
     "id": "translation_test",
-    "state": "pending",
+    "state": "question_posted",
     "caption": "اختبار ترجمة 🇹🇷\n المستوى: A2\n \n ترجم الجملة التركية إلى العربية ✍️\n اكتب ترجمتك في التعليقات، والإجابة بعد ساعة 👇\n \n #تعلم_التركية #اللغة_التركية #Türkçe #çeviri",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792706493/rawi_generator/translation_test_question_1792706490246_0.jpg"
@@ -25,7 +25,9 @@
     "answerCaption": "الإجابة الصحيحة ✅\n المستوى: A2\n \n 🇹🇷 Dün akşam arkadaşımla sinemaya gittim.\n ذهبت أمس مساءً إلى السينما مع صديقي.\n \n هل كانت ترجمتك صحيحة؟ اكتب لنا في التعليقات 👇\n \n #تعلم_التركية #اللغة_التركية #Türkçe #çeviri",
     "answerUrls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792706496/rawi_generator/translation_test_answer_1792706490246_1.jpg"
-    ]
+    ],
+    "question_posted_at": "2026-11-11T15:00:53.549+03:00",
+    "question_posted_media_id": "18116330546149469"
   },
   {
     "id": "translation_test",
