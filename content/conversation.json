@@ -86,12 +86,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تسأل أمك عن وصفة شوربة العدس 🥣\nTürkçe öğren: Anneden mercimek çorbası tarifi\n\nمحادثة تركية يومية مترجمة، تتعلم منها السؤال عن المقادير ومدة الطبخ:\n▪ Altı bardak su yeter = تكفي ستة أكواب من الماء\n▪ Yirmi beş dakika, sonra blenderdan geçirin = خمساً وعشرين دقيقة، ثم اطحنه بالخلّاط\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الطبخ_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909202/aile-10.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363606/aile-10.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-11T18:30:46.887+03:00",
+    "posted_media_id": "18029408633929845"
   },
   {
     "id": "conversation",
