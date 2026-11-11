@@ -17,7 +17,7 @@
   },
   {
     "id": "translation_test",
-    "state": "question_posted",
+    "state": "posted",
     "caption": "اختبار ترجمة 🇹🇷\n المستوى: A2\n \n ترجم الجملة التركية إلى العربية ✍️\n اكتب ترجمتك في التعليقات، والإجابة بعد ساعة 👇\n \n #تعلم_التركية #اللغة_التركية #Türkçe #çeviri",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792706493/rawi_generator/translation_test_question_1792706490246_0.jpg"
@@ -27,7 +27,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792706496/rawi_generator/translation_test_answer_1792706490246_1.jpg"
     ],
     "question_posted_at": "2026-11-11T15:00:53.549+03:00",
-    "question_posted_media_id": "18116330546149469"
+    "question_posted_media_id": "18116330546149469",
+    "posted_at": "2026-11-11T16:00:55.006+03:00",
+    "posted_media_id": "18179593909444981"
   },
   {
     "id": "translation_test",
