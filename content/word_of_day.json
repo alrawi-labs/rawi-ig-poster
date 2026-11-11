@@ -170,7 +170,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Mutlaka\n المعنى: بالتأكيد / حتماً\n المستوى: B1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692480/rawi_generator/word_of_day_cover_1792692478016_0.jpg",
@@ -183,7 +183,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692499/rawi_generator/word_of_day_question_1792692491297_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692502/rawi_generator/word_of_day_answer_1792692491297_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692505/rawi_generator/word_of_day_closed_1792692491297_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-11T10:01:04.061+03:00",
+    "posted_media_id": "17994400065116128"
   },
   {
     "id": "word_of_day",
