@@ -46,11 +46,13 @@
   {
     "id": "stories_test_your_understanding",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792929522/rawi_generator/stories_test_your_understanding_1792929521227.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-12T18:00:52.284+03:00",
+    "posted_media_id": "17938731816402973"
   },
   {
     "id": "stories_test_your_understanding",
