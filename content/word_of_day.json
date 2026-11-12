@@ -189,7 +189,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Öğrenmek\n المعنى: يتعلّم\n المستوى: A1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692508/rawi_generator/word_of_day_cover_1792692505328_0.jpg",
@@ -201,7 +201,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692524/rawi_generator/word_of_day_question_1792692518336_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692527/rawi_generator/word_of_day_answer_1792692518336_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692529/rawi_generator/word_of_day_closed_1792692518336_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-12T14:00:52.620+03:00",
+    "posted_media_id": "17967216024217343"
   },
   {
     "id": "word_of_day",
