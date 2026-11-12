@@ -98,12 +98,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف توزعون مهام تنظيف البيت في عطلة الأسبوع 🧽\nTürkçe öğren: Aile ev temizliği iş bölümü\n\nمحادثة تركية يومية مترجمة، تتعلم منها توزيع المهام وطلب البيتزا بعد الانتهاء:\n▪ Ben salon ve mutfağı yapayım, siz banyoyu = أنا أتولى الصالون والمطبخ، وأنت الحمّام\n▪ İş bitince pizza ısmarlayalım = حين ننتهي نطلب بيتزا\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #البيت_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909340/aile-11.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793363614/aile-11.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-12T11:30:40.793+03:00",
+    "posted_media_id": "18153591409562584"
   },
   {
     "id": "conversation",
