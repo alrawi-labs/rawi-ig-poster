@@ -25,7 +25,7 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -43,6 +43,11 @@ jobs:
           GRAPH_API_VERSION: v23.0
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' }}
           TEST_NOW: ${{ github.event.inputs.test_now }}
+          TIKTOK_ENABLED: "false"    # her şey hazır olunca "true" yap
+          TIKTOK_PRIVACY: SELF_ONLY  # audit onayından sonra PUBLIC_TO_EVERYONE
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
         run: node scripts/publish.mjs
 
       # Script hata verse bile, paylaşılmış olanların durumunu kaydet (çift paylaşımı önler)

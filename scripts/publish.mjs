@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { DateTime } from "luxon";
 import { ANCHOR, FORMAT, PLAN } from "./plan.mjs";
+import { TT_ENABLED, ttPost, ttSupports } from "./tiktok.mjs";
 
 // ================= AYARLAR =================
 const TZ = "Europe/Istanbul";
@@ -13,6 +14,8 @@ const TEST_NOW = process.env.TEST_NOW || ""; // örn. "2026-10-28T15:00" (İstan
 const LOOKBACK_MIN = Number(process.env.LOOKBACK_MIN || 120); // GitHub cron gecikmesine tolerans
 const CONTENT_DIR = "content";
 const LOG_FILE = "state/posted_log.json";
+const TT_QUEUE_FILE = "state/tiktok_queue.json";
+const TT_MAX_ATTEMPTS = 3;
 // Reels kapağı: varsayılan olarak videodan alınacak kare (milisaniye). 0 = ilk kare (Instagram varsayılanı).
 // İçerik kaydında "coverUrl" (JPEG linki) ya da "thumbOffset" (ms) varsa onlar önceliklidir.
 const REEL_THUMB_OFFSET_MS = Number(process.env.REEL_THUMB_OFFSET_MS || 0);
@@ -90,7 +93,10 @@ console.log(
   `[${now.toFormat("yyyy-LL-dd HH:mm")} ${TZ}] hafta ${week + 1}, ${DAY_NAMES[dayIdx]} -> ${due.length} paylaşım bekliyor` +
     (DRY_RUN ? " (DRY RUN)" : ""),
 );
-if (due.length === 0) process.exit(0);
+
+// Bekleyen TikTok denemeleri varsa, paylaşım olmasa bile çalışmaya devam et
+const ttQueue = readJson(TT_QUEUE_FILE, []);
+if (due.length === 0 && !(TT_ENABLED && ttQueue.length && !DRY_RUN)) process.exit(0);
 
 // ================= İÇERİK =================
 function loadContent() {
@@ -196,9 +202,44 @@ async function postReel(urls, caption, item = {}) {
   return publishContainer(c.id);
 }
 
+// ================= TIKTOK =================
+// TikTok'a gönder; başarısız olursa false döner (Instagram'ı asla etkilemez)
+async function sendToTikTok(entry) {
+  const logKey = `${entry.key}|tiktok`;
+  if (log[logKey]) return true;
+  try {
+    const r = await ttPost(entry);
+    const postId = r.publicaly_available_post_id?.[0] ?? r.publicly_available_post_id?.[0] ?? r.publish_id ?? "ok";
+    log[logKey] = { id: postId, at: now.toISO() };
+    console.log("  ✓ TikTok'a da paylaşıldı");
+    return true;
+  } catch (e) {
+    console.error(`  ✗ TikTok: ${e.message}`);
+    return false;
+  }
+}
+
+function queueTikTok(entry, attempts = 1) {
+  if (attempts >= TT_MAX_ATTEMPTS) {
+    console.error(`  ✗ TikTok ${entry.key}: ${TT_MAX_ATTEMPTS} denemeden sonra vazgeçildi`);
+    return;
+  }
+  ttQueue.push({ ...entry, attempts });
+}
+
 // ================= ANA AKIŞ =================
 const files = loadContent();
 let failed = false;
+
+// Önceki çalışmalardan kalan başarısız TikTok paylaşımlarını tekrar dene
+if (TT_ENABLED && !DRY_RUN && ttQueue.length) {
+  const old = ttQueue.splice(0, ttQueue.length);
+  for (const e of old) {
+    if (log[`${e.key}|tiktok`]) continue;
+    console.log(`↻ TikTok tekrar deneme: ${e.key} (${e.attempts + 1}. deneme)`);
+    if (!(await sendToTikTok(e))) queueTikTok(e, e.attempts + 1);
+  }
+}
 
 for (const d of due) {
   try {
@@ -247,6 +288,16 @@ for (const d of due) {
     log[d.key] = { media_id: result.id, at: now.toISO() };
     console.log(`  ✓ paylaşıldı: ${result.id}`);
 
+    // Instagram başarılı oldu -> aynı içeriği TikTok'a da gönder
+    if (TT_ENABLED) {
+      if (!ttSupports(format)) {
+        console.log(`  - TikTok: "${format}" formatı desteklenmiyor, atlandı`);
+      } else {
+        const entry = { key: d.key, format, urls, caption: item.tiktokCaption ?? caption };
+        if (!(await sendToTikTok(entry))) queueTikTok(entry);
+      }
+    }
+
     await sleep(5000);
   } catch (err) {
     failed = true;
@@ -254,8 +305,9 @@ for (const d of due) {
   }
 }
 
-// Logu 14 günden eski kayıtlardan temizle
+// Kuyruğu kaydet, logu 14 günden eski kayıtlardan temizle
 if (!DRY_RUN) {
+  if (TT_ENABLED) writeJson(TT_QUEUE_FILE, ttQueue);
   const limit = now.minus({ days: 14 }).toISODate();
   for (const k of Object.keys(log)) if (k.split("|")[0] < limit) delete log[k];
   writeJson(LOG_FILE, log);
