@@ -35,7 +35,7 @@
   },
   {
     "id": "five_word",
-    "state": "pending",
+    "state": "posted",
     "caption": "🇹🇷 5 كلمات تركية لا غنى عنها في «العيادة»\n \n 📊 المستوى: B1 (متوسط)\n \n 1️⃣ Belirti ← عَرَض\n 2️⃣ Teşhis ← تشخيص\n 3️⃣ Tedavi ← علاج\n 4️⃣ Tahlil ← تحليل مخبري\n 5️⃣ Alerji ← حساسية\n \n 💬 أي مكان تحب أن نتعلم كلماته في المنشور القادم؟ شاركنا رأيك في الاستطلاع!\n 💾 احفظ المنشور لتراجعه لاحقاً.\n 👥 أرسله لصديق يتعلم التركية.\n \n #تعلم_التركية #اللغة_التركية #كلمات_تركية #تركيا #راوي_أكاديمية #LearnTurkish #Türkçe",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791300/rawi_generator/five_word_cover_1792791297702_0.jpg",
@@ -46,7 +46,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791316/rawi_generator/five_word_detail_1792791313586_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791319/rawi_generator/five_word_detail_1792791313586_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791322/rawi_generator/five_word_poll_1792791313586_2.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-14T12:00:50.132+03:00",
+    "posted_media_id": "18044413580837569"
   },
   {
     "id": "five_word",
