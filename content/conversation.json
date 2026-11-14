@@ -122,12 +122,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تُنهي إجراءات السفر في المطار ✈️\nTürkçe öğren: Havalimanında check-in\n\nمحادثة تركية يومية مترجمة، تتعلم منها وزن الحقيبة والوزن الزائد واختيار المقعد:\n▪ Bagaj hakkım ne kadar? = كم وزن الأمتعة المسموح لي؟\n▪ Pencere kenarı isterim = أريد مقعداً بجانب النافذة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #السفر_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791824998/havalimani-checkin-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364433/havalimani-checkin-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-14T14:30:41.528+03:00",
+    "posted_media_id": "18120081661800463"
   },
   {
     "id": "conversation",
