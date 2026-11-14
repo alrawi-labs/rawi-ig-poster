@@ -1,7 +1,7 @@
 [
   {
     "id": "tips",
-    "state": "pending",
+    "state": "posted",
     "caption": "تحفظ الكلمة التركية ثم تنساها بعد يومين؟ المشكلة غالباً في الطريقة.\n \n جرّب أن تحفظ كل كلمة داخل جملة قصيرة من حياتك. بهذه الطريقة تتعلم المعنى وطريقة الاستعمال معاً.\n \n اكتب لنا في التعليقات جملة بكلمة تعلمتها اليوم 👇\n \n #تعلم_التركية #اللغة_التركية #تركي #Türkçe",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792789997/rawi_generator/tips_cover_1792789991577_0.jpg",
@@ -12,7 +12,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790010/rawi_generator/tips_content_1792790008489_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790013/rawi_generator/tips_content_1792790008489_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790015/rawi_generator/tips_content_1792790008489_2.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-14T09:00:47.703+03:00",
+    "posted_media_id": "18362328313221188"
   },
   {
     "id": "tips",
