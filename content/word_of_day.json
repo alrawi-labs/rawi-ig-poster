@@ -207,7 +207,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Unutmak\n المعنى: ينسى\n المستوى: A2\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692532/rawi_generator/word_of_day_cover_1792692529729_0.jpg",
@@ -219,7 +219,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692547/rawi_generator/word_of_day_question_1792692542646_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692550/rawi_generator/word_of_day_answer_1792692542646_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692552/rawi_generator/word_of_day_closed_1792692542646_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-15T09:01:01.824+03:00",
+    "posted_media_id": "18352180747252646"
   },
   {
     "id": "word_of_day",
