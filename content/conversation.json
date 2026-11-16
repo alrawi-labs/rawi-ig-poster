@@ -134,12 +134,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تشكو لجارك بلطف من تسرّب الماء من شرفته 💧\nTürkçe öğren: Balkondan su damlaması\n\nمحادثة تركية يومية مترجمة، تتعلم منها وصف المشكلة والاتفاق على حل:\n▪ Balkonunuzdan bizim balkona su damlıyor = الماء يتساقط من شرفتكم على شرفتنا\n▪ Saksı altına tabak koyarsanız su akmaz = إن وضعتم صحناً تحت الأصيص فلن يسيل الماء\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الجيران_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791893212/muasere-06.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364799/muasere-06.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-16T21:00:54.302+03:00",
+    "posted_media_id": "17956766934333195"
   },
   {
     "id": "conversation",
