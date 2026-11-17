@@ -146,12 +146,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تطلب القهوة والحلوى في المقهى ☕\nTürkçe öğren: Kafede sipariş verme\n\nمحادثة تركية يومية مترجمة إلى العربية، تتعلم منها الطلب والسؤال عن السعر والدفع:\n▪ İki Türk kahvesi alabilir miyim? = هل يمكنني الحصول على قهوتين تركيتين؟\n▪ Para üstü yirmi lira = الباقي عشرون ليرة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #المقهى_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845762/kafe-03.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364475/kafe-03.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-17T13:00:57.141+03:00",
+    "posted_media_id": "17921805261465425"
   },
   {
     "id": "conversation",
