@@ -243,7 +243,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Başarmak\n المعنى: ينجح في / يُحقق\n المستوى: B1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692579/rawi_generator/word_of_day_cover_1792692576544_0.jpg",
@@ -255,7 +255,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692597/rawi_generator/word_of_day_question_1792692591647_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692600/rawi_generator/word_of_day_answer_1792692591647_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692603/rawi_generator/word_of_day_closed_1792692591647_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-17T11:00:55.995+03:00",
+    "posted_media_id": "18140386432646207"
   },
   {
     "id": "word_of_day",
