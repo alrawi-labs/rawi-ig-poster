@@ -158,12 +158,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تطلب الشاي والسميت من مقهى الجامع وتحسب الباقي ☕\nTürkçe öğren: Cami çay ocağında sipariş\n\nمحادثة تركية يومية مترجمة، تتعلم منها الطلب وحساب المجموع وأخذ الباقي:\n▪ İki çay ve bir simit alabilir miyim? = هل أستطيع أخذ كوبي شاي وسميتة؟\n▪ Yüz lira versem, para üstü otuz lira olur = إن أعطيتك مئة ليرة يكون الباقي ثلاثين ليرة\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الطعام_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891718/cami-18.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364015/cami-18.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-18T19:00:57.368+03:00",
+    "posted_media_id": "18154203598553170"
   },
   {
     "id": "conversation",
