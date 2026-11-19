@@ -170,12 +170,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تعرض المساعدة على شخص يحمل أكياساً ثقيلة 🛍️\nTürkçe öğren: Sokakta yardım teklif etme\n\nمحادثة تركية يومية مترجمة إلى العربية، تتعلم منها كيف تعرض المساعدة بلطف وتتحدث عن الطابق والمصعد:\n▪ Pardon, çantalarınızı taşımanıza yardım edeyim mi? = عفواً، هل أساعدك في حمل حقائبك؟\n▪ Tabii. Siz nereye gidiyorsunuz? = طبعاً. إلى أين تذهبين؟\n▪ Kaçıncı kat? = أي طابق؟\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الآداب_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791890407/sokak-yardim-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365511/sokak-yardim-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-19T17:30:46.114+03:00",
+    "posted_media_id": "18000663366019559"
   },
   {
     "id": "conversation",
