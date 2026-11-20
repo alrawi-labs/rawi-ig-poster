@@ -182,12 +182,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تسأل في مكتب شؤون الطلاب بالجامعة 🎓\nTürkçe öğren: Üniversitede öğrenci işleriyle konuşma\n\nمحادثة تركية يومية مترجمة إلى العربية، تتعلم منها كيف تسأل عن التسجيل والأوراق والرسوم والسكن:\n▪ Merhaba, kayıt işlemleri için geldim. = مرحباً، جئت لإجراءات التسجيل.\n▪ Harcı nereden yatırabilirim? = من أين أدفع الرسوم؟\n▪ Yurt başvurusu da yapabilir miyim? = هل يمكنني التقديم على السكن الجامعي أيضاً؟\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الجامعة_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791891302/universite-12.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365802/universite-12.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-20T15:30:45.686+03:00",
+    "posted_media_id": "18353206405268222"
   },
   {
     "id": "conversation",
