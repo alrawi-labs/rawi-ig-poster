@@ -52,7 +52,7 @@
   },
   {
     "id": "five_word",
-    "state": "pending",
+    "state": "posted",
     "caption": "🇹🇷 5 كلمات تركية لا غنى عنها في «المحكمة»\n \n 📊 المستوى: B2 (فوق المتوسط)\n \n 1️⃣ Dava ← دعوى\n 2️⃣ Avukat ← محامٍ\n 3️⃣ Hâkim ← قاضٍ\n 4️⃣ Tanık ← شاهد\n 5️⃣ Savunma ← دفاع\n \n 💬 أي مكان تحب أن نتعلم كلماته في المنشور القادم؟ شاركنا رأيك في الاستطلاع!\n 💾 احفظ المنشور لتراجعه لاحقاً.\n 👥 أرسله لصديق يتعلم التركية.\n \n #تعلم_التركية #اللغة_التركية #كلمات_تركية #تركيا #راوي_أكاديمية #LearnTurkish #Türkçe",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791326/rawi_generator/five_word_cover_1792791323394_0.jpg",
@@ -63,7 +63,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791342/rawi_generator/five_word_detail_1792791339582_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791345/rawi_generator/five_word_detail_1792791339582_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791348/rawi_generator/five_word_poll_1792791339582_2.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-21T12:00:52.995+03:00",
+    "posted_media_id": "18098590547663215"
   },
   {
     "id": "five_word",
