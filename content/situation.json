@@ -12,12 +12,14 @@
   },
   {
     "id": "situation",
-    "state": "pending",
+    "state": "posted",
     "caption": "🗣️ هل تعرف كيف تتصرف؟ | المستوى A1\n \n جرّب نفسك في موقف حقيقي ستواجهه في تركيا 🇹🇷\n شاركنا جوابك في التعليقات 👇\n \n 💾 احفظ المنشور وراجعه لاحقاً\n \n #تعلم_التركية #اللغة_التركية #مواقف_تركية #تركي_للعرب",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792878569/rawi_generator/situation_cover_1792878565261_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792878573/rawi_generator/situation_answer_1792878565261_1.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-21T09:00:52.523+03:00",
+    "posted_media_id": "18151931446559897"
   },
   {
     "id": "situation",
