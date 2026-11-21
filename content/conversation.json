@@ -194,12 +194,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تخططان لرحلة نهاية الأسبوع 🌴\nTürkçe öğren: Hafta sonu tatil planı\n\nمحادثة واتساب تركية بين صديقين مترجمة إلى العربية، تتعلم منها مقارنة الأسعار واختيار وسيلة السفر:\n▪ Toplam ne kadar olur? = كم يكون المجموع؟\n▪ Kişi başı bin sekiz yüz = ألف وثمانمئة للشخص\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #السفر_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791886637/whatsapp-tatil-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365881/whatsapp-tatil-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-21T14:30:44.872+03:00",
+    "posted_media_id": "17962009164014320"
   },
   {
     "id": "conversation",
