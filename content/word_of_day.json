@@ -297,7 +297,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Anlamak\n المعنى: يفهم\n المستوى: A2\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692656/rawi_generator/word_of_day_cover_1792692653843_0.jpg",
@@ -309,7 +309,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692674/rawi_generator/word_of_day_question_1792692667722_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692677/rawi_generator/word_of_day_answer_1792692667722_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692679/rawi_generator/word_of_day_closed_1792692667722_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-22T12:00:52.324+03:00",
+    "posted_media_id": "18000222267046278"
   },
   {
     "id": "word_of_day",
