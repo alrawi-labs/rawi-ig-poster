@@ -1,7 +1,7 @@
 [
   {
     "id": "popular_proverbs",
-    "state": "pending",
+    "state": "posted",
     "caption": "مثل تركي مشهور 🇹🇷\n \n «Bir fincan kahvenin kırk yıl hatırı vardır»\n \n معناه الحرفي: فنجان قهوة واحد له فضل يدوم أربعين سنة\n \n المعروف مهما كان بسيطاً يبقى أثره في القلب سنين طويلة، ومن قدّم لك شيئاً صغيراً يبقى له حق عليك.\n \n هل يوجد عندكم مثل عربي قريب منه؟ اكتبوه في التعليقات 👇\n \n #تعلم_التركية #اللغة_التركية #أمثال_تركية #Türkçe",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790710/rawi_generator/popular_proverbs_cover_1792790705494_0.jpg",
@@ -10,7 +10,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790720/rawi_generator/popular_proverbs_example_1792790705494_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790724/rawi_generator/popular_proverbs_cta_1792790705494_4.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792790726/rawi_generator/popular_proverbs_last_1792790724430_0.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-22T20:00:54.488+03:00",
+    "posted_media_id": "18148741324596738"
   },
   {
     "id": "popular_proverbs",
