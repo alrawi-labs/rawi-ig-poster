@@ -206,12 +206,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تسجّل أمتعتك في المطار ✈️\nTürkçe öğren: Havalimanında check-in\n\nمحادثة تركية يومية مترجمة إلى العربية، تتعلم منها وزن الحقيبة والأمتعة الزائدة ورقم البوابة:\n▪ Bagaj hakkınız yirmi kilo = حد أمتعتك عشرون كيلوغراماً\n▪ Kapı numaram kaç? = ما رقم بوابتي؟\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #المطار_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791843921/havalimani-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364415/havalimani-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-23T15:30:54.151+03:00",
+    "posted_media_id": "18134161948759649"
   },
   {
     "id": "conversation",
