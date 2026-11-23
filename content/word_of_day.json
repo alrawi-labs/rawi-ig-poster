@@ -315,7 +315,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Gelişmek\n المعنى: يتطوّر\n المستوى: B1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692682/rawi_generator/word_of_day_cover_1792692679461_0.jpg",
@@ -327,7 +327,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692698/rawi_generator/word_of_day_question_1792692692633_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692700/rawi_generator/word_of_day_answer_1792692692633_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692703/rawi_generator/word_of_day_closed_1792692692633_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-23T08:00:55.195+03:00",
+    "posted_media_id": "18609169048069680"
   },
   {
     "id": "word_of_day",
