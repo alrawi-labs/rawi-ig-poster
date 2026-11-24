@@ -218,12 +218,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تسأل عن شقة للإيجار 🏢\nTürkçe öğren: Kiralık daire gezme\n\nمحادثة تركية يومية مترجمة، تتعلم منها السؤال عن الغرف والإيجار والرسوم:\n▪ Aidat dahil mi? = هل رسوم العمارة مشمولة؟\n▪ Düşünüp haber vereceğim = سأفكر وأخبرك\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #السكن_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791827596/kiralik-ev-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364538/kiralik-ev-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-24T14:30:45.690+03:00",
+    "posted_media_id": "18174298774422331"
   },
   {
     "id": "conversation",
