@@ -230,12 +230,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تحجز تذكرة قطار 🚆\nTürkçe öğren: Gardan tren bileti alma\n\nمحادثة تركية يومية مترجمة، تتعلم منها طلب التذاكر والمقاعد والسؤال عن الرصيف:\n▪ Yan yana olsun = لتكن متجاورة\n▪ Peron kaç? = أي رصيف؟\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #المواصلات_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791823411/tren-bilet-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793365687/tren-bilet-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-25T18:30:47.065+03:00",
+    "posted_media_id": "18135390385763897"
   },
   {
     "id": "conversation",
