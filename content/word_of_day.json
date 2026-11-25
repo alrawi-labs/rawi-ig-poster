@@ -351,7 +351,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Beğenmek\n المعنى: يُعجَب بـ\n المستوى: A2\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692729/rawi_generator/word_of_day_cover_1792692726326_0.jpg",
@@ -363,7 +363,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692746/rawi_generator/word_of_day_question_1792692739862_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692749/rawi_generator/word_of_day_answer_1792692739862_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692752/rawi_generator/word_of_day_closed_1792692739862_3.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-25T12:00:52.734+03:00",
+    "posted_media_id": "17980994051932631"
   },
   {
     "id": "word_of_day",
