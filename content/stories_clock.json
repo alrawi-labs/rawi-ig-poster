@@ -1957,11 +1957,13 @@
   {
     "id": "stories_test_your_turkish",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792926733/rawi_generator/stories_test_your_turkish_1792926732623.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-25T21:00:53.517+03:00",
+    "posted_media_id": "18045719576841814"
   },
   {
     "id": "stories_test_your_turkish",
