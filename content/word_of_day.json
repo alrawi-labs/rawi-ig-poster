@@ -369,7 +369,7 @@
   },
   {
     "id": "word_of_day",
-    "state": "pending",
+    "state": "posted",
     "caption": "كلمة اليوم: Komşu\n المعنى: جار\n المستوى: A1\n \n #تعلم_التركية #اللغة_التركية #Türkçe #kelime",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692754/rawi_generator/word_of_day_cover_1792692751841_0.jpg",
@@ -382,7 +382,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692774/rawi_generator/word_of_day_question_1792692765420_2.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692776/rawi_generator/word_of_day_answer_1792692765420_3.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792692779/rawi_generator/word_of_day_closed_1792692765420_4.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-26T14:01:00.809+03:00",
+    "posted_media_id": "18122798926977777"
   },
   {
     "id": "word_of_day",
