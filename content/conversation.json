@@ -242,12 +242,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تشتري تذاكر المتحف وتسأل عن الجولة 🏛️\nTürkçe öğren: Müzede bilet alma\n\nمحادثة تركية يومية مترجمة إلى العربية، تتعلم منها تذكرة الطالب والمرشد الصوتي وأوقات العمل:\n▪ Öğrenci kartı = بطاقة الطالب\n▪ Sesli rehber = مرشد صوتي\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #السياحة_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791845662/muze-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364841/muze-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-26T12:01:02.721+03:00",
+    "posted_media_id": "18134619259841136"
   },
   {
     "id": "conversation",
