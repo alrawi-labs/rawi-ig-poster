@@ -254,12 +254,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تشرح للكهربائي مشكلة المقبس وتتفق على السعر ⚡\nTürkçe öğren: Elektrikçiyle priz tamiri\n\nمحادثة تركية يومية مترجمة، تتعلم منها وصف العطل والسؤال عن التكلفة والدفع:\n▪ Salonun prizi kıvılcım çıkarıyor = مقبس الصالون يطلق شرراً\n▪ İşçilik ne kadar? = كم أجرة العمل؟\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #البيت_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791909731/ev-03.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364198/ev-03.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-27T10:30:45.781+03:00",
+    "posted_media_id": "18503386771100891"
   },
   {
     "id": "conversation",
