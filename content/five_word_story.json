@@ -54,13 +54,15 @@
   {
     "id": "five_word_story",
     "format": "story",
-    "state": "pending",
+    "state": "posted",
     "caption": "",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1793039195/rawi_generator/five_word_story_1793039188781.jpg"
     ],
     "row": 6,
-    "source": "five_word"
+    "source": "five_word",
+    "posted_at": "2026-11-28T12:30:43.880+03:00",
+    "posted_media_id": "17933105601428060"
   },
   {
     "id": "five_word_story",
