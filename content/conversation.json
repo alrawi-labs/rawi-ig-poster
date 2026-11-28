@@ -266,12 +266,14 @@
   {
     "id": "conversation",
     "caption": "تعلّم التركية: كيف تشتري الخبز والمعجنات من الفرن 🥖\nTürkçe öğren: Fırında ekmek ve poğaça alma\n\nمحادثة تركية يومية مترجمة إلى العربية، تتعلم منها الطلب وحساب الأسعار:\n▪ Poşete koyayım mı? = هل أضعها في كيس؟\n▪ Yeni çıktı = خرجت للتو\n\n📌 احفظ الفيديو وشاركه مع صديق يتعلم التركية. تابع @rawi.turkish للمزيد من المحادثات اليومية.\nKaydet ve Türkçe öğrenen bir arkadaşınla paylaş.\n\n#تعلم_التركية #TürkçeÖğren #LearnTurkish #GünlükTürkçe #الطعام_بالتركية",
-    "state": "pending",
+    "state": "posted",
     "urls": [
       "https://res.cloudinary.com/diebwrrn3/video/upload/v1791840679/firin-01.mp4"
     ],
     "coverUrl": "https://res.cloudinary.com/diebwrrn3/image/upload/v1793364298/firin-01.png",
-    "format": "reels"
+    "format": "reels",
+    "posted_at": "2026-11-28T14:30:44.479+03:00",
+    "posted_media_id": "18096697349194753"
   },
   {
     "id": "conversation",
