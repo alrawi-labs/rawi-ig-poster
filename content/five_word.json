@@ -69,7 +69,7 @@
   },
   {
     "id": "five_word",
-    "state": "pending",
+    "state": "posted",
     "caption": "🇹🇷 5 كلمات تركية لا غنى عنها في «المقهى»\n \n 📊 المستوى: A1 (مبتدئ)\n \n 1️⃣ Fincan ← فنجان\n 2️⃣ Şeker ← سكر\n 3️⃣ Pasta ← كعكة\n 4️⃣ Limonata ← ليموناضة\n 5️⃣ Bahşiş ← بقشيش\n \n 💬 أي مكان تحب أن نتعلم كلماته في المنشور القادم؟ شاركنا رأيك في الاستطلاع!\n 💾 احفظ المنشور لتراجعه لاحقاً.\n 👥 أرسله لصديق يتعلم التركية.\n \n #تعلم_التركية #اللغة_التركية #كلمات_تركية #تركيا #راوي_أكاديمية #LearnTurkish #Türkçe",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791351/rawi_generator/five_word_cover_1792791349013_0.jpg",
@@ -80,7 +80,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791368/rawi_generator/five_word_detail_1792791365701_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791371/rawi_generator/five_word_detail_1792791365701_1.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792791375/rawi_generator/five_word_poll_1792791365701_2.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-28T12:00:53.370+03:00",
+    "posted_media_id": "18085967693740951"
   },
   {
     "id": "five_word",
