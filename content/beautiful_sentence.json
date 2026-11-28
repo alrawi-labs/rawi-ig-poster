@@ -17,7 +17,7 @@
   },
   {
     "id": "beautiful_sentence",
-    "state": "pending",
+    "state": "posted",
     "caption": "جمل تركية للحياة اليومية 🇹🇷\n المستوى: A1\n الموضوع: alışveriş\n \n 1. Bu ne kadar?\n بكم هذا؟\n \n 2. Başka rengi var mı?\n هل يوجد لون آخر؟\n \n 3. Sadece bakıyorum, teşekkürler.\n فقط أنظر، شكراً.\n \n 4. Kartla ödeyebilir miyim?\n هل يمكنني الدفع بالبطاقة؟\n \n 5. Poşet ister misiniz?\n هل تريدون كيساً؟\n \n #تعلم_التركية #اللغة_التركية #Türkçe #günlükcümleler",
     "urls": [
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701796/rawi_generator/beautiful_sentence_cover_1792701793392_0.jpg",
@@ -27,7 +27,9 @@
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701808/rawi_generator/beautiful_sentence_word_meanings_1792701793392_4.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701812/rawi_generator/beautiful_sentence_word_meanings_1792701808572_0.jpg",
       "https://res.cloudinary.com/adp7rvya/image/upload/v1792701815/rawi_generator/beautiful_sentence_save_cta_1792701808572_1.jpg"
-    ]
+    ],
+    "posted_at": "2026-11-28T09:00:57.432+03:00",
+    "posted_media_id": "18002488302045552"
   },
   {
     "id": "beautiful_sentence",
